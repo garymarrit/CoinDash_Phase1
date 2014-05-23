@@ -1,0 +1,9 @@
+[28-Apr-2014 12:31:27 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/sits/public_html/coindash/system/database/drivers/mysql/mysql_driver.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sits/public_html/coindash/system/database/DB.php on line 140
+[28-Apr-2014 12:36:25 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/sits/public_html/coindash/application/models/user_model.php on line 15
+[01-May-2014 08:51:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/sits/public_html/coindash/application/controllers/front/dashboard.php on line 7
+[01-May-2014 08:52:32 UTC] PHP Fatal error:  Can't use method return value in write context in /home/sits/public_html/coindash/application/controllers/front/dashboard.php on line 7
+[01-May-2014 08:53:09 UTC] PHP Fatal error:  Can't use method return value in write context in /home/sits/public_html/coindash/application/controllers/front/dashboard.php on line 7
+[01-May-2014 09:53:08 UTC] PHP Parse error:  syntax error, unexpected 'fa' (T_STRING) in /home/sits/public_html/coindash/application/controllers/front/home.php on line 84
+[01-May-2014 09:53:13 UTC] PHP Parse error:  syntax error, unexpected 'fa' (T_STRING) in /home/sits/public_html/coindash/application/controllers/front/home.php on line 84
+[01-May-2014 10:22:03 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/sits/public_html/coindash/application/controllers/front/home.php on line 12
+[05-May-2014 05:48:13 UTC] PHP Fatal error:  Cannot redeclare Home::press() in /home/sits/public_html/coindash/application/controllers/front/home.php on line 118
